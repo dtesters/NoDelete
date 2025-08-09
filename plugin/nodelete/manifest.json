@@ -13,5 +13,5 @@
     "icon": "ic_delete_redo_24px",
     "store": true
   },
-  "main": "index.ts"
+  "main": "./index.ts"
 }
