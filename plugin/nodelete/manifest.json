@@ -1,0 +1,17 @@
+{
+  "name": "NoDelete+",
+  "description": "Logs deleted and edited messages (including embeds) and provides per-channel clearing.",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "test",
+      "id": "591534252307513347",
+      "github": "test"
+    }
+  ],
+  "vendetta": {
+    "icon": "ic_delete_redo_24px",
+    "store": true
+  },
+  "main": "index.js"
+}
